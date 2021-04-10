@@ -1,4 +1,4 @@
-package huffman_encoding_for_size_reduction;
+
 import java.util.*;
 public class Huffman_Client {
 
