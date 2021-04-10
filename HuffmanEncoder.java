@@ -1,4 +1,3 @@
-package huffman_encoding_for_size_reduction;
 
 import java.util.*; 
 
