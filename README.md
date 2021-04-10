@@ -1,2 +1,4 @@
 # Huffman-Encoding
-Implemented huffman-encoding in JAVA
+Implemented huffman-encoding using Hash maps and Priority queue
+
+
