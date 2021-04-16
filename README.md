@@ -34,6 +34,7 @@ Geeksforgeeks: https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/
 while parsing the node if we are going in the left node add 0 and in right add 1.
 
 Sample: For string s="abcdbbd"
+
 ![image](https://user-images.githubusercontent.com/73992468/115026910-a8653500-9ee0-11eb-91ce-5e710553064f.png)
 
 
