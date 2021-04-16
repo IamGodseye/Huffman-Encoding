@@ -5,6 +5,7 @@ Huffman-Encoding:
 > Huffman encoding is a particular type of optimal prefix code that is commonly used for lossless data compression.
 
 Wikipedia: https://en.wikipedia.org/wiki/Huffman_coding
+
 Geeksforgeeks: https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/
 
 *How to use the project-code:*
