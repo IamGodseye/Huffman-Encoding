@@ -7,8 +7,8 @@ Huffman-Encoding:
 Wikipedia: https://en.wikipedia.org/wiki/Huffman_coding
 
 Geeksforgeeks: https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/
-------------
 
+------------
 
 *How to use the project-code:*
 1. Clone the repository.
@@ -17,6 +17,7 @@ Geeksforgeeks: https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/
 4. Run the Huffman_Client.java....... Boom, It's working.
 
 ------------
+
 *How it works:*
 1. First of all take the input string. 
 
