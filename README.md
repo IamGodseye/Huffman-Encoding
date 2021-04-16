@@ -33,4 +33,8 @@ Geeksforgeeks: https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/
 6. Take the last node and parse that node to fill encoder and decoder Hash maps.
 while parsing the node if we are going in the left node add 0 and in right add 1.
 
+Sample: For string s="abcdbbd"
+![image](https://user-images.githubusercontent.com/73992468/115026910-a8653500-9ee0-11eb-91ce-5e710553064f.png)
+
+
 -  For more understanding refer to this: https://www.youtube.com/watch?v=uDS8AkTAcIU&t=566s
